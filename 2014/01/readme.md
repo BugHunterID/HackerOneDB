@@ -1,0 +1,5 @@
+* [[gazly](https://hackerone.com/gazly)] [Login-page-password-guessing-attack](https://hackerone.com/reports/110)
+* [[andrisatteka](https://hackerone.com/andrisatteka)] [CSRF-login](https://hackerone.com/reports/547)
+* [[szgru](https://hackerone.com/szgru)] [Missing-SPF-for-hackeronecom](https://hackerone.com/reports/120)
+* [[appsecure_in](https://hackerone.com/appsecure_in)] [Broken-Authentication-and-session-management-OWASP-A2](https://hackerone.com/reports/284)
+* [[michael1026](https://hackerone.com/michael1026)] [DNS-Cache-Poisoning](https://hackerone.com/reports/487)
